@@ -1,4 +1,4 @@
-### Hi, I'm Rocky 👋
+### Hi, I'm Rocky!
 
 **Applied AI engineer in Berlin.** I build LLM agents and RAG systems, and I measure whether they actually work.
 
