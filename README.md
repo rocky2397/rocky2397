@@ -8,7 +8,7 @@ Currently **Forward Deployed Engineer at [fonio](https://fonio.ai)**, shipping p
 
 ### Featured projects
 
-| Project | What it does | What it shows |
+| Project | What it does | What it shows (engineering highlights) |
 |---|---|---|
 | **[lab2startup](https://github.com/rocky2397/lab2startup)** | Agentic VC sourcing: finds academic AI researchers likely to found startups before they announce anything | LangGraph agents with tiered investigation depth · golden-set eval (24 researchers: precision 1.0, recall 1.0, $0.64 measured cost) · full audit trail per run |
 | **[prentice](https://github.com/rocky2397/prentice)** | Records a desktop workflow (screen + input events) and turns it into a Claude Code `SKILL.md` that can replay it | Five-stage multimodal pipeline (CLIP segmentation, VLM interpretation, grounding) · documented design trade-offs and known limits |
