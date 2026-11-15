@@ -1,6 +1,6 @@
 ### Hi, I'm Rocky!
 
-**Applied AI engineer in Berlin.** I build LLM agents and RAG systems, ship them as products people use, and measure whether they actually work.
+**Applied AI engineer based in Europe.** I build LLM agents and RAG systems, ship them as products people use, and measure whether they actually work.
 
 Currently **Forward Deployed Engineer at [fonio](https://fonio.ai)**, shipping production voice agents for business customers: n8n/webhook tool integrations, prompt and guardrail design, and end-to-end regression tests that place real phone calls against the deployed models.
 
@@ -35,4 +35,4 @@ Currently **Forward Deployed Engineer at [fonio](https://fonio.ai)**, shipping p
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/rocky-auer) · open to **Applied AI / AI Engineer**, **Forward Deployed Engineer** and **product engineering** roles in EMEA or remote.
+[LinkedIn](https://www.linkedin.com/in/rocky-auer) · open to **Applied AI / AI Engineer**, **Forward Deployed Engineer** and **product engineering** roles in Europe (EMEA) or remote, and open to relocating for the right opportunity.
