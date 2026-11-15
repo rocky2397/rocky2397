@@ -10,11 +10,11 @@ Currently **Forward Deployed Engineer at [fonio](https://fonio.ai)**, shipping p
 
 | Project | What it does | Highlights |
 |---|---|---|
-| **[lab2startup](https://github.com/rocky2397/lab2startup)** | Agentic VC sourcing: finds academic AI researchers likely to found startups before they announce anything | LangGraph agents with tiered depth · golden-set eval: 24 researchers, precision and recall 1.0, $0.64 · audit trail per run · product side: built around a fund's monthly sourcing pass, with a next step per candidate (take meeting, monitor, ignore), diffs between runs, a desktop app, and the fund's thesis swappable in a config file without code changes |
-| **[prentice](https://github.com/rocky2397/prentice)** | Records a desktop workflow (screen + input events) and turns it into a Claude Code `SKILL.md` that can replay it | Five-stage multimodal pipeline (CLIP, local VLM) · documented trade-offs and limits · product side: private by design (explicit start/stop, models run on-device) and output built to be trusted: it refuses to guess a command and flags uncertain steps for review instead of dropping them |
-| **[NormChat](https://github.com/rocky2397/NormChat)** | RAG chat over building-code PDFs (DIN, Eurocode, ÖNORM) with cited passages and in-PDF highlighting | Hybrid search with reranking · per-stage retrieval eval · CI, Docker · product side: evaluated on real questions from a practising structural engineer, each cited source opens the PDF at the highlighted passage, and users bring their own licensed norms |
-| **[Forkcast](https://github.com/rocky2397/forkcast)** | Food-inventory PWA: suggests what to cook from what's in your kitchen, learns your taste, and steers toward your daily macros | Blind evals, double-marked by two models and a human: cookable recipes 65% → 92%, usable swaps 33% → 95% · taste ranking replayed on 2,710 real users: 55 → 61 (50 = chance) · Claude vision intake · 214 tests, CI · product side: 31 documented product decisions, onboarding that explains itself, WCAG AA accessibility checks, demo GIF |
-| **[claude-automation](https://github.com/rocky2397/claude-automation)** | Reusable GitHub Actions that let Claude prioritize a project board, implement tickets, and open PRs | Agent orchestration in CI · nightly report flags "silent failures" (green jobs that did nothing) · product side: a tester feedback form whose free text becomes ready-to-work tickets, a human merge gate on every PR, and an install checklist for adopting it in any repo |
+| **[Forkcast](https://github.com/rocky2397/forkcast)** | Food-inventory PWA: suggests what to cook from what's in your kitchen, learns your taste, and steers toward your daily macros | Blind evals drove fixes: cookable recipes 65% → 92%, usable swaps 33% → 95% · 31 documented product decisions, accessibility checks, demo GIF |
+| **[lab2startup](https://github.com/rocky2397/lab2startup)** | Agentic VC sourcing: finds academic AI researchers likely to found startups before they announce anything | Golden-set eval: found all 14 founders among 24 researchers with no false positives, for $0.64 · gives each candidate a next step (take meeting, monitor, ignore) |
+| **[prentice](https://github.com/rocky2397/prentice)** | Records a desktop workflow (screen + input events) and turns it into a Claude Code `SKILL.md` that can replay it | Five-stage multimodal pipeline that runs on-device · refuses to guess a command and flags uncertain steps for review |
+| **[NormChat](https://github.com/rocky2397/NormChat)** | RAG chat over building-code PDFs (DIN, Eurocode, ÖNORM) with cited passages and in-PDF highlighting | Hybrid search with reranking, evaluated stage by stage · tested on a practising engineer's real questions, and each source opens the PDF at the highlighted passage |
+| **[claude-automation](https://github.com/rocky2397/claude-automation)** | Reusable GitHub Actions that let Claude prioritize a project board, implement tickets, and open PRs | Nightly report flags "silent failures" (green jobs that did nothing) · tester feedback becomes tickets, and a human merges every PR |
 
 ### What I care about
 
@@ -35,4 +35,4 @@ Currently **Forward Deployed Engineer at [fonio](https://fonio.ai)**, shipping p
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/rocky-auer) · open to **Applied AI / AI Engineer** roles in EMEA or remote.
+[LinkedIn](https://www.linkedin.com/in/rocky-auer) · open to **Applied AI / AI Engineer** and **product engineering** roles in EMEA or remote.
