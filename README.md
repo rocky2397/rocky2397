@@ -35,4 +35,4 @@ Currently **Forward Deployed Engineer at [fonio](https://fonio.ai)**, shipping p
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/rocky-auer) · open to **Applied AI / AI Engineer**, **Forward Deployed Engineer** and **product engineering** roles in Europe (EMEA) or remote. Happy to relocate for the right opportunity, including to the US or Asia.
+[LinkedIn](https://www.linkedin.com/in/rocky-auer) · [Book a 20 or 30 minute intro call](https://cal.com/rocky-auer-3jwvij/intro) · open to **Applied AI / AI Engineer**, **Forward Deployed Engineer** and **product engineering** roles in Europe (EMEA) or remote. Happy to relocate for the right opportunity, including to the US or Asia.
